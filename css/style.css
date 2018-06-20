@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+main {
+    margin: 0;
+}
+
+.row {
+    margin: 0;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    height: 100vh;
+    margin: 0;
+    padding: 3%;
+}
+
+.col-9 {
+    background-color: grey;
+    color: white;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#rooms {
+    height: 50%;
+    padding: 5%;
+    border: solid 1px white;
+    border-radius: 5px;
+    margin: 2%;
+}
+
+h2 {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+#users {
+    height: 50%;
+    padding: 5%;
+    border: solid 1px white;
+    border-radius: 5px;
+    margin: 2%;
+}
+
+#chat {
+    height: 90%;
+    padding: 2%;
+}
+
+#envoi {
+    background-color: darkgray;
+    height: 10%;
+    padding: 2%;
+    margin: 0;
+}
+
+#pseudo {
+    border-radius: 5px;
+    background-color: rgb(97, 96, 96);
+    text-align: center;
+}
+
+#message {
+    border-radius: 5px;
+    background-color: white;
+    width: 70%;
+}
+
+#bouton {
+    border: none;
+    border-radius: 5px;
+    background-color: dimgray;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
